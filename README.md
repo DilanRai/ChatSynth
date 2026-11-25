@@ -27,7 +27,7 @@ A modern, responsive Streamlit chat application featuring **real-time visual pro
 
 ```bash
 git clone https://github.com/DilanRai/ChatSynth.git
-cd <your-repo-name>
+cd ChatSynth
 ```
 
 ### 2. Set Up Virtual Environment
